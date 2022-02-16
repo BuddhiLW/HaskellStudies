@@ -1,0 +1,4 @@
+#+TITLE: Readme
+
+Book references:
+- Graham Hutton, Programming in Haskell - Cambridge University Press (2018)
